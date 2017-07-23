@@ -7,6 +7,7 @@ module.exports = {
   'react/jsx-filename-extension': ['error', {
     extensions: ['.js'],
   }],
+  'react/jsx-wrap-multilines': 0,
   'react/no-unused-prop-types': ['error', {
     skipShapeProps: true,
   }],

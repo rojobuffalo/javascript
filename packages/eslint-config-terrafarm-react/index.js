@@ -1,7 +1,7 @@
 module.exports = {
   extends: [
     'airbnb',
-    '4catalyzer',
+    'terrafarm',
   ],
   rules: require('./rules'),
 };

@@ -1,23 +1,23 @@
 {
-  "name": "eslint-config-4catalyzer-react",
+  "name": "eslint-config-terrafarm-react",
   "version": "0.2.0",
-  "description": "4Catalyzer React ESLint config",
+  "description": "Terrafarm React ESLint config",
   "files": [
     "*.js"
   ],
   "main": "index.js",
-  "repository": "https://github.com/4Catalyzer/javascript/tree/master/packages/eslint-config-4catalyzer-react",
+  "repository": "https://github.com/Terrafarm/javascript/tree/master/packages/eslint-config-terrafarm-react",
   "keywords": [
     "eslint"
   ],
-  "author": "4Catalyzer",
+  "author": "Terrafarm",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/4Catalyzer/javascript/issues"
+    "url": "https://github.com/Terrafarm/javascript/issues"
   },
-  "homepage": "https://github.com/4Catalyzer/javascript#readme",
+  "homepage": "https://github.com/Terrafarm/javascript#readme",
   "dependencies": {
-    "eslint-config-4catalyzer": "^0.2.0",
+    "eslint-config-terrafarm": "^0.2.0",
     "eslint-config-airbnb": "^13.0.0"
   },
   "peerDependencies": {

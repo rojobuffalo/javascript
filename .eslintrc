@@ -1,5 +1,5 @@
 {
-  "extends": "./packages/eslint-config-4catalyzer/index.js",
+  "extends": "./packages/eslint-config-terrafarm/index.js",
   "rules": {
     "global-require": "off"
   }

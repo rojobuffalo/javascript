@@ -1,7 +1,7 @@
 module.exports = {
   extends: [
     'plugin:flowtype/recommended',
-    '4catalyzer',
+    'terrafarm',
   ],
   plugins: [
     'flowtype',

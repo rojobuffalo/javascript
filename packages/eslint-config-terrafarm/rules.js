@@ -1,6 +1,7 @@
 module.exports = {
+  'arrow-parens': [1, 'as-needed'],
   'class-methods-use-this': 'off',
-  'max-len': ['error', 79, {
+  'max-len': ['error', 99, {
     ignorePattern: ' // eslint-disable-line ',
   }],
   'no-mixed-operators': ['error', {
@@ -20,4 +21,6 @@ module.exports = {
     'WithStatement',
   ],
   'import/prefer-default-export': 'off',
+  'import/no-extraneous-dependencies': ['error', { devDependencies: true }],
+  'space-before-function-paren': [2, 'always'],
 };

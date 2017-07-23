@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-terrafarm",
+  "version": "0.2.0",
+  "description": "Terrafarm ESLint config",
+  "files": [
+    "*.js"
+  ],
+  "main": "index.js",
+  "repository": "https://github.com/Terrafarm/javascript/tree/master/packages/eslint-config-terrafarm",
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Terrafarm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Terrafarm/javascript/issues"
+  },
+  "homepage": "https://github.com/Terrafarm/javascript#readme",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^10.0.1"
+  },
+  "peerDependencies": {
+    "babel-eslint": "^7.0.0",
+    "eslint": "^3.9.1",
+    "eslint-plugin-import": "^2.1.0"
+  }
+}

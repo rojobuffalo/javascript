@@ -1,5 +1,4 @@
-# 4Catalyzer JavaScript Style Guide
-_An utterly unreasonable JavaScript style guide, mostly for trolling [@jquense](https://github.com/jquense)._
+# Terrafarm JavaScript Style Guide
 
 Use the [Airbnb JavaScript style guide](https://github.com/airbnb/javascript), with the following additions.
 
@@ -56,4 +55,4 @@ For tests, import test-specific modules in a third section, after importing the 
 
 ## Line width
 
-79 characters, because [@taion](https://github.com/taion) doesn't want to have to resize the width of his buffers when switching between JavaScript and PEP 8-compliant Python.
+99 characters
