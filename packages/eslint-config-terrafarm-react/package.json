@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-terrafarm-react",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Terrafarm React ESLint config",
   "files": [
     "*.js"
@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/Terrafarm/javascript#readme",
   "dependencies": {
-    "eslint-config-terrafarm": "^0.2.0",
-    "eslint-config-airbnb": "^13.0.0"
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-config-terrafarm": "^0.2.1"
   },
   "peerDependencies": {
     "babel-eslint": "^7.0.0",
