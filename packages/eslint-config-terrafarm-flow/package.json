@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-terrafarm-flow",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Terrafarm Flow ESLint config",
   "files": [
     "*.js"
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Terrafarm/javascript#readme",
   "dependencies": {
-    "eslint-config-terrafarm": "^0.2.1"
+    "eslint-config-terrafarm": "^0.2.2"
   },
   "peerDependencies": {
     "babel-eslint": "^7.2.3",
